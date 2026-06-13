@@ -1,6 +1,7 @@
 # This is the official code repository of CATrack: Cross-modal Frequency Interaction and Adaptive Expert Fusion for RGB-T Tracking.
 
-<img width="773" height="275" alt="模型结构图" src="https://github.com/user-attachments/assets/f743302f-331d-4964-a454-8d5abb4615fa" />
+<img width="773" height="275" alt="模型结构<img width="773" height="275" alt="模型结构图" src="https://github.com/user-attachments/assets/bcb4436c-1adf-47f3-97a1-576fb90b5375" />
+
 
 Environment：pip install -r environment.yml
 
